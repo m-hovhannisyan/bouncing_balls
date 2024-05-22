@@ -1,0 +1,7 @@
+{
+   "mount": [
+     ["./src", "/"],
+     ["./dist", "/dist"]
+   ],
+   "startPath": "index.html"
+}

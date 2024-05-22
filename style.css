@@ -1,0 +1,12 @@
+body {
+   margin: 0;
+   border: 0;
+}
+
+.canvas-body {
+   padding: 3px 0px 0px 5px;
+}
+
+#myCanvas {
+   border: 1px solid black;
+}
